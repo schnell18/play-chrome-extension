@@ -1,0 +1,10 @@
+.vscode/
+.state/
+*.swp
+*.swo
+*.pyc
+*.pyo
+*.bak
+*.pid
+*.log
+*.DS_STORE
